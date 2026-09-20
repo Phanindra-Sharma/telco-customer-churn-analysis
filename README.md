@@ -98,8 +98,6 @@ An interactive **Churn Analysis Dashboard** was created with 5 key sections:
 
 ---
 ## 🌟 Features
-## 📊 Dashboard Preview
-
 ## 🖼️ Dashboard Preview
 
 | Overview | Service & Usage |
