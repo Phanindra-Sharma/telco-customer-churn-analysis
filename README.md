@@ -100,9 +100,21 @@ An interactive **Churn Analysis Dashboard** was created with 5 key sections:
 ## 🌟 Features
 ## 📊 Dashboard Preview
 
-![Telco Churn Dashboard Overview](https://github.com/Phanindra-Sharma/telco-customer-churn-analysis/raw/main/Screenshots/1.Overview.png)
-- SQL + Python dual cleaning approach.
+## 🖼️ Dashboard Preview
 
+| Overview | Service & Usage |
+|---|---|
+| ![Overview](https://github.com/Phanindra-Sharma/telco-customer-churn-analysis/raw/main/Screenshots/1.%20Overview.png) | ![Service & Usage](https://github.com/Phanindra-Sharma/telco-customer-churn-analysis/raw/main/Screenshots/2.%20Service%20%26%20Usage.png) |
+
+| Customer Demographics | Financial Impact |
+|---|---|
+| ![Customer Demographics](https://github.com/Phanindra-Sharma/telco-customer-churn-analysis/raw/main/Screenshots/3.%20Customer%20Demographics.png) | ![Financial Impact](https://github.com/Phanindra-Sharma/telco-customer-churn-analysis/raw/main/Screenshots/4.%20Financial%20Imapact.png) |
+
+| Churn Risk & Insights |
+|---|
+| ![Churn Risk & Insights](https://github.com/Phanindra-Sharma/telco-customer-churn-analysis/raw/main/Screenshots/5.%20Churn%20Risk%20%26%20Insights.png) |
+
+---
 - Beginner-friendly basic predictive modeling.
 
 - Business-ready Power BI dashboard with actionable insights.
