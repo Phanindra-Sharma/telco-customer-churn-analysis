@@ -98,6 +98,10 @@ An interactive **Churn Analysis Dashboard** was created with 5 key sections:
 
 ---
 ## 🌟 Features
+- Beginner-friendly basic predictive modeling.
+
+- Business-ready Power BI dashboard with actionable insights.
+
 ## 🖼️ Dashboard Preview
 
 | Overview | Service & Usage |
@@ -111,11 +115,6 @@ An interactive **Churn Analysis Dashboard** was created with 5 key sections:
 | Churn Risk & Insights |
 |---|
 | ![Churn Risk & Insights](https://github.com/Phanindra-Sharma/telco-customer-churn-analysis/raw/main/Screenshots/5.%20Churn%20Risk%20%26%20Insights.png) |
-
----
-- Beginner-friendly basic predictive modeling.
-
-- Business-ready Power BI dashboard with actionable insights.
 
 ---
 ## 📜 License
