@@ -98,7 +98,9 @@ An interactive **Churn Analysis Dashboard** was created with 5 key sections:
 
 ---
 ## 🌟 Features
+## 📊 Dashboard Preview
 
+![Telco Churn Dashboard Overview](https://github.com/Phanindra-Sharma/telco-customer-churn-analysis/raw/main/Screenshots/1.Overview.png)
 - SQL + Python dual cleaning approach.
 
 - Beginner-friendly basic predictive modeling.
